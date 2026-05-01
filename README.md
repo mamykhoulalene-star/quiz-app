@@ -150,18 +150,4 @@ Samy Khoulalene
 
 GitHub: @mamykhoulalene-star
 
-
-
 ⭐️ If you found this project helpful, please give it a star on GitHub! ⭐️
-
-text
-
-## 📋 Additional Setup Instructions
-
-To push this project to GitHub, follow these steps:
-
-1. **Create a complete README.md file** in your project root with the content above
-
-2. **Initialize Git repository** (if not already done):
-   ```bash
-   git init
